@@ -71,17 +71,19 @@ warto jeszcze poćwiczyć.]]></description>
 			/>
 			<toggler
 				isRandomOrderVecBtn="1" 
-				isAlignVerticalHorizontal="1"
-			/>
+				isAlignVerticalHorizontal="0"
+			>
+				<styleElement thickness="4" color="0x0099ff" alpha="0.5" />
+			</toggler>
 			
 		</settings>
 		<data isRandomOrderActivities="0" countActivitiesInOneContainer="1" >
 			<info labelNumQuestion="Zadanie #NR_PYTANIA# z #ILE_PYTAN#" />
 			
-			
 			<activity type="toggler">
+				<settings isGeometricFillCustomSwap="0" typeGeometric="0" nameDimension="width" valueDimension="1000" isAddMargin="1" distanceOrderBetweenBtns="40" />
 				<question>
-					<value>Oznacz kółkiem nieprawidłowe zdania</value>
+					<value>Skreśl krzyżykiem nieprawidłowa zdania.</value>
 				</question>
 				<btn isCorrect="1">
 					<value>Dzieci w wieku powyżej 10 lat w zorganizowanej grupie (kolumnie) powinny poruszać się po drogach wyłącznie prawą stroną jezdni. Obok siebie mogą iść maksymalnie 4 osoby. Kolumna nie może być dłuższa niż 50 m.</value>
@@ -98,9 +100,8 @@ warto jeszcze poćwiczyć.]]></description>
 				</feedback>
 			</activity>
 			
-			
 			<activity type="connectDots">
-				<settings maxCountLinesForBtnDot="2" nameDimensionA="width" valueDimensionA="300" nameDimensionB="height" valueDimensionB="130" nameDimensionC="width" valueDimensionC="300" isAddMargin="1" distanceOrderBetweenBtns="15" distanceBetweenTypesBtnDot="60" posYBtnCheck="545" />
+				<settings maxCountLinesForBtnDot="2" maxCountLinesForBtnDotA="1" maxCountLinesForBtnDotC="1" nameDimensionA="width" valueDimensionA="300" nameDimensionB="height" valueDimensionB="130" nameDimensionC="width" valueDimensionC="300" isAddMargin="1" distanceOrderBetweenBtns="15" distanceBetweenTypesBtnDot="60" posYBtnCheck="545" />
 				<question>
 					<value>Dopasuj polimer do jego wzoru cząsteczkowego i właściwości farmakologicznych.</value>
 				</question>
