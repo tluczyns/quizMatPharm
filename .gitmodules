@@ -1,0 +1,8 @@
+[submodule "activity"]
+	path = activity
+	url = https://bitbucket.org/nowaera/templateactivity.git
+	branch = master
+[submodule "abstract"]
+	path = abstract
+	url = https://bitbucket.org/nowaera/quizTechnicsAbstract.git
+	branch = master
