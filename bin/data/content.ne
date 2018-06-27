@@ -83,7 +83,7 @@ warto jeszcze poćwiczyć.]]></description>
 			<activity type="toggler">
 				<settings isGeometricFillCustomSwap="0" typeGeometric="0" nameDimension="width" valueDimension="1000" isAddMargin="1" distanceOrderBetweenBtns="40" />
 				<question>
-					<value>Skreśl krzyżykiem nieprawidłowa zdania.</value>
+					<value>Skreśl krzyżykiem nieprawidłowe zdania.</value>
 				</question>
 				<btn isCorrect="1">
 					<value>Dzieci w wieku powyżej 10 lat w zorganizowanej grupie (kolumnie) powinny poruszać się po drogach wyłącznie prawą stroną jezdni. Obok siebie mogą iść maksymalnie 4 osoby. Kolumna nie może być dłuższa niż 50 m.</value>
