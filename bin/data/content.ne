@@ -135,7 +135,7 @@ warto jeszcze poćwiczyć.]]></description>
 					<value>środek krwiozastępczy</value>
 				</btn>
 				<feedback>
-					<bad>Błędna odpowiedź. Numer alarmowy na policję to 997, \ndo straży pożarnej – 998, a na pogotowie – 999. \nUniwersalnym numerem alarmowym w Polsce \ni całej Europie jest 112.</bad>
+					<bad>Błędna odpowiedź.</bad>
 					<correct>Brawo!</correct>
 				</feedback>
 			</activity>
