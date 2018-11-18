@@ -62,7 +62,7 @@ warto jeszcze poćwiczyć.]]></description>
 			/>
 			<selectAnswers 
 				isRandomOrderVecBtn="1" 
-				isChoiceSingleMultiple="0"
+				isSelectOneAnyBtn="0"
 				isStandardElementInBtnAnswer="1"
 			/>
 			<shuffler
@@ -141,20 +141,6 @@ warto jeszcze poćwiczyć.]]></description>
 			</activity>
 			
 			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 			<activity type="dragNDrop">
 				<settings 
 					isAlignVerticalHorizontal="0" isIgnoreBottomBtnQuiz="1"
@@ -206,7 +192,7 @@ warto jeszcze poćwiczyć.]]></description>
 			</activity>
 			
 			<activity type="selectAnswers">
-				<settings isChoiceSingleMultiple="1" alignmentElementStandard="3" nameDimension="height" valueDimension="250" distanceOrderBetweenBtns="40" />
+				<settings isSelectOneAnyBtn="1" alignmentElementStandard="3" nameDimension="height" valueDimension="250" distanceOrderBetweenBtns="40" />
 				<question>
 					<value>Na dworcu kolejowym lub lotnisku możesz zobaczyć różne znaki (piktogramy). Część z nich informuje o tym, gdzie są kasy biletowe, przechowalnie bagażu, toalety itp. Inne znaki dotyczą bezpieczeństwa. Spośród piktogramów widocznych poniżej zaznacz tylko te, które ułatwią szybkie opuszczenie (ewakuację) dworca lub lotniska w razie zagrożenia (np. pożaru).</value>
 				</question>
@@ -304,8 +290,6 @@ warto jeszcze poćwiczyć.]]></description>
 					<correct>Brawo! Prawidłowa odpowiedź.</correct>
 				</feedback>
 			</activity>
-			
-			
 			
 			<activity type="dragNDrop">
 				<settings 
